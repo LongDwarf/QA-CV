@@ -7,10 +7,11 @@ use Hogwarts;
 Used the Hogwarts database in order to create a new table.
 */
 create table Students(
-students_ID int primary key not null auto_increment,
+students_ID int not null auto_increment,
 students_Names varchar (35),
 students_Age int not null,
-students_Faculties varchar (25)
+students_Faculties varchar (25),
+primary key (students_ID)
 )
 /*
 Created a new table.

@@ -1,10 +1,10 @@
 create database REDB;
 /*
-Created a database and called it "ResidentEvil".
+Created a database and called it "REDB".
 */
 use REDB;
 /*
-I Used the "ResidentEvil" database in order to create a table.
+I Used the "REDB" database in order to create a table.
 */
 create table residentevil_List_Of_Games(
 games_ID int not null auto_increment,

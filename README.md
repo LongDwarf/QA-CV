@@ -40,4 +40,24 @@ ______________________________________________
 
 ______________________________________________
 
+SOFT SKILLS
+
+______________________________________________
+
+• Analytical thinking
+
+• Teamwork
+
+• The ability to learn
+
+• Organization
+
+• Goal Oriented
+
+• Flexibility
+
+• Multitasking
+
+______________________________________________
+
 You can find my portfolio right here - https://github.com/LongDwarf/QA-CV/branches

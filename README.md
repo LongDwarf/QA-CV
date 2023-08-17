@@ -59,6 +59,11 @@ ______________________________________________
 • Multitasking
 
 ______________________________________________
+So far I was doing some side projects and you can find them below:
 
-You can find my portfolio right here - https://github.com/LongDwarf/QA-CV/branches
+
+MySQL - https://github.com/LongDwarf/QA-CV/branches
+
+
+Jira bug report - https://drive.google.com/drive/folders/1g81KkoBCXPnyrS0-V-cAPEGAOT9qj7Kg?usp=sharing
 

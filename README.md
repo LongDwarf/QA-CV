@@ -59,7 +59,7 @@ ______________________________________________
 • Multitasking
 
 ______________________________________________
-So far I was doing some side projects and you can find them below:
+So far, I've been doing some side projects, and you can find them below:
 
 
 MySQL - https://github.com/LongDwarf/QA-CV/branches

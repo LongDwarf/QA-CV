@@ -62,11 +62,11 @@ ______________________________________________
 So far, I've been doing some side projects, and you can find them below:
 
 
-{MySQL}(https://github.com/LongDwarf/QA-CV/branches) - https://github.com/LongDwarf/QA-CV/branches
+• [MySQL](https://github.com/LongDwarf/QA-CV/branches)
 
-Jira bug report - https://drive.google.com/drive/folders/1g81KkoBCXPnyrS0-V-cAPEGAOT9qj7Kg?usp=sharing
+• Jira bug report - https://drive.google.com/drive/folders/1g81KkoBCXPnyrS0-V-cAPEGAOT9qj7Kg?usp=sharing
 
-Bug reports for games - https://docs.google.com/spreadsheets/d/1Rx33HmRz9CdtRlJQVAUlb_TQfUfScY7xYb508jVN0rA/edit?usp=sharing
+• Bug reports for games - https://docs.google.com/spreadsheets/d/1Rx33HmRz9CdtRlJQVAUlb_TQfUfScY7xYb508jVN0rA/edit?usp=sharing
 
-Bug on websites - https://docs.google.com/spreadsheets/d/11bgxcW53iLs52RQYHbHIOUL3edaCzrQhFXPGAZrv5YY/edit?usp=sharing
+• Bug on websites - https://docs.google.com/spreadsheets/d/11bgxcW53iLs52RQYHbHIOUL3edaCzrQhFXPGAZrv5YY/edit?usp=sharing
 

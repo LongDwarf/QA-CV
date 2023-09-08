@@ -62,7 +62,7 @@ ______________________________________________
 So far, I've been doing some side projects, and you can find them below:
 
 
-MySQL - https://github.com/LongDwarf/QA-CV/branches
+{MySQL}(https://github.com/LongDwarf/QA-CV/branches) - https://github.com/LongDwarf/QA-CV/branches
 
 Jira bug report - https://drive.google.com/drive/folders/1g81KkoBCXPnyrS0-V-cAPEGAOT9qj7Kg?usp=sharing
 

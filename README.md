@@ -57,6 +57,9 @@ ______________________________________________
 • Flexibility
 
 • Multitasking
+______________________________________________
+
+MY PROJECTS
 
 ______________________________________________
 So far, I've been doing some side projects, and you can find them below:
